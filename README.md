@@ -86,6 +86,7 @@ This is a simple web application that allows users to place feedback pins on a U
 - Pins will appear at the location clicked.
 - Click on any existing pin to view or edit the feedback.
 - Refresh the page to see saved pins loaded from the backend.
+- In App.jsx file, there is a function named handleCanvasClick, you can use this to define on which component or level you want this functionality.
 
 ---
 
