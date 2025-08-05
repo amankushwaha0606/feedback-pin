@@ -10,6 +10,7 @@ This is a simple web application that allows users to place feedback pins on a U
 - View and update feedback by clicking existing pins.
 - Feedback saved and loaded from a backend API using SQLite.
 - Responsive and interactive UI built with React and MUI.
+- I added some default text for better visualization. If you have something else, try it in App.jsx
 
 ---
 
