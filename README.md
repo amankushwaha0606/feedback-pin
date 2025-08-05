@@ -6,7 +6,7 @@ This is a simple web application that allows users to place feedback pins on a U
 
 ## Features
 
-- Click on canvas to add feedback pins with text.
+- Click on canvas to add feedback pins with text, which can be configured.
 - View and update feedback by clicking existing pins.
 - Feedback saved and loaded from a backend API using SQLite.
 - Responsive and interactive UI built with React and MUI.
