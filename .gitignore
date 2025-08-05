@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Environment files
+# .env
+.env.local
+
+# SQLite DB and other runtime files
+*.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# Build output
+dist/
+build/
