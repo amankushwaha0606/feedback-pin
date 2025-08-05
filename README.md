@@ -96,7 +96,7 @@ This is a simple web application that allows users to place feedback pins on a U
 Environment variables for API URLs are configured in:
 
 - `frontend/.env` (for frontend)
-- As there are no tokens used, the .env file will also be there if you want to add some tokens as well. Uncomment the .env file from the .gitignore file.
+- As there are no tokens used, the .env file will also be there for easy installation, if you want to add some sensitive tokens or URLs as well. Uncomment the .env file from the .gitignore file.
   
 Example:
 ```
